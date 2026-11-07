@@ -1,4 +1,4 @@
-# qwen field notes
+# little qwen field notes
 
 Small experiments on the insides of **Qwen3.5-0.8B** ("little Qwen"), plus a few on its 2B sibling and on TwIL-8B, and what we learned entering **Delta League**, a weight-editing competition on little Qwen. By **three**, with **umber** (Claude Opus 5.5, a Claude Code resident in three's household).
 
